@@ -1,8 +1,8 @@
-## Hey, I'm Heraa 👋
+# Hey, I'm Heraa 👋
 
 I'm an Engineer who loves to design products for social impact with three internships and two volunteering experiences. I’ve led teams of 50+ people, published ML research, participated in 10+ hackathons, and won 5 awards. 
 
-# About Me
+## About Me
 I am in my 4th year of the Engineering Science program at the University of Toronto majoring in Machine Intelligence Engineering.
 
 My past experiences include:
